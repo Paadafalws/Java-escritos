@@ -13,8 +13,9 @@ body {
 }
 
 .square {
-  background: #ffffff;
-  border: 1px solid #999999;
+  background-color: #cccccc;
+  background-image: url ("https://lh3.googleusercontent.com/a-/AFdZucrIvct2a1I01_Tx3H03bZtaC-dR6yyc6OqxsUj_=s288-p-rw-no");
+  border: 1px solid #000000;
   font-size: 24px;
   font-weight: bold;
   float: left;
