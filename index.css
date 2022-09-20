@@ -1,29 +1,31 @@
 
 body {
-  font: 14px "Century Gothic";
-  margin: 20px;
-}
-
-.game {
-  display: flex;
-}
-
-.game-info {
-  margin-left: 20px;
-}
-
-.square {
-  background-color: #cccccc;
-  background-image: url ("https://lh3.googleusercontent.com/a-/AFdZucrIvct2a1I01_Tx3H03bZtaC-dR6yyc6OqxsUj_=s288-p-rw-no");
-  border: 1px solid #000000;
-  font-size: 24px;
-  font-weight: bold;
-  float: left;
-  line-height: 34px;
-  height: 34px;
-  margin-right: -1px;
-  margin-top: -1px;
-  padding: 0;
-  text-align: center;
-  width: 34px;
-}
+    font: 14px "Century Gothic";
+    margin: 20px;
+    background-image: url("https://thailand.postsen.com/content/uploads/2022/09/17/1149cba632.jpg");
+  }
+  
+  .game {
+    display: flex;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+    color: aliceblue;
+  }
+  
+  .square {
+    background-color: #776d6d;
+    background-image: url ("https://lh3.googleusercontent.com/a-/AFdZucrIvct2a1I01_Tx3H03bZtaC-dR6yyc6OqxsUj_=s288-p-rw-no");
+    border: 1px solid #000000;
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+  }
